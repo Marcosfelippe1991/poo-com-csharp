@@ -1,0 +1,12 @@
+História do sistema.
+
+Fomos contratos para criar um sistema bancário, onde fosse possivel criar as seguintes questões:
+
+1° Ser possivel Criar uma conta corrente.
+2° Ser possivel Criar uma conta poupança.
+3° Ser possivel Criar uma conta investimento.
+4° Ser possivel Efetuar um deposito.
+5° Ser possivel Efetuar um saque. 
+6° Ser possivel Efetuar uma tranferência.
+7° Ser possivel Consultar Saldo.
+8° Ser possivel Visualizar as movimentações bancárias.

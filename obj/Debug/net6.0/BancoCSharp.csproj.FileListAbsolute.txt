@@ -1,0 +1,15 @@
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\bin\Debug\net6.0\BancoCSharp.exe
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\bin\Debug\net6.0\BancoCSharp.deps.json
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\bin\Debug\net6.0\BancoCSharp.runtimeconfig.json
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\bin\Debug\net6.0\BancoCSharp.dll
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\bin\Debug\net6.0\BancoCSharp.pdb
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.csproj.AssemblyReference.cache
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.AssemblyInfoInputs.cache
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.AssemblyInfo.cs
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.csproj.CoreCompileInputs.cache
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.dll
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\refint\BancoCSharp.dll
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.pdb
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\BancoCSharp.genruntimeconfig.cache
+C:\Dev\Marcos Felippe\CSharp\BancoCSharp\obj\Debug\net6.0\ref\BancoCSharp.dll
